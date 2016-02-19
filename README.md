@@ -33,5 +33,6 @@ java -jar target/gs-rest-service-0.1.0.jar
 https://spring.io/guides/gs/rest-service/
 
 # Notes
-Make sure you run it with Maven3
-No XML
+* Make sure you run it with Maven3
+* No XML
+* Small footprint 13MB
